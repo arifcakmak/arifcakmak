@@ -20,7 +20,6 @@ I am a full stack developer focused on delivering scalable, maintainable, and hi
 src="https://img.shields.io/github/followers/arifcakmak?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a><a href="https://www.x.com/aarifcakmak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aarifcakmak?logo=twitter&style=for-the-badge&color=ffffff&labelColor=171717"
 /></a>
-### Badges
 
 <a href="https://github.com/arifcakmak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifcakmak&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
